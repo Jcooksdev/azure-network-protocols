@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-We'll start this project by Signing into our domain admin account and our Client- 1 Virtual machines. Creating 4 different folders and set permisson for each, skipping one for now. 
+1. We'll start this project by Signing into our domain admin account and our Client- 1 Virtual machines. Creating 4 different folders and set permisson for each, skipping one for now. 
 </p>
 <br />
 
@@ -39,7 +39,7 @@ We'll start this project by Signing into our domain admin account and our Client
 
 </p>
 <p>
-In our Client-1 we will navigate the share folder and run DC-1, seeing which folder we can access and one we are restricted from. 
+2. In our Client-1 we will navigate the share folder and run DC-1, seeing which folder we can access and one we are restricted from. 
 </p>
 <br />
 
@@ -47,6 +47,6 @@ In our Client-1 we will navigate the share folder and run DC-1, seeing which fol
 
 </p>
 <p>
-Lastley, we will create a security group called Accountants ans assign permisson and test its access. Logining out of client-1 and into DC-1, we'll assgin some user to the accountants security group and log back in as one of the users. Signing in as one user and testing which access we had assign to it earlier. 
+3. Lastley, we will create a security group called Accountants ans assign permisson and test its access. Logining out of client-1 and into DC-1, we'll assgin some user to the accountants security group and log back in as one of the users. Signing in as one user and testing which access we had assign to it earlier. 
 </p>
 <br />
