@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-1. We'll start this project by Signing into our domain admin account and our Client- 1 Virtual machines. Creating 4 different folders and set permisson for each, skipping one for now. 
+1. We'll start this project by signing into our domain admin account and our Client- 1 Virtual machines. Creating 4 different folders and set permisson for each, skipping one for now. 
 </p>
 <br />
 
@@ -47,6 +47,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-3. Lastley, we will create a security group called Accountants ans assign permisson and test its access. Logining out of client-1 and into DC-1, we'll assgin some user to the accountants security group and log back in as one of the users. Signing in as one user and testing which access we had assign to it earlier. 
+3. Lastley, we will create a security group called Accountants and assign permisson and test its access. Logging out of client-1 and into DC-1, we'll assign some user to the accountant's security group and log back in as one of the users. Signing in as one user and testing which access we had assign to it earlier. 
 </p>
 <br />
