@@ -20,7 +20,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Create some smaple file shares with various permissions 
+- Create some sample file shares with various permissions 
 - Attempting to access file shares as a normal user 
 - Create an Accountants security group, assigning permissions and test access 
   
